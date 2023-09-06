@@ -1,0 +1,19 @@
+.container > h1
+{
+	letter-spacing: -1px;
+	font-size: 37px;
+}
+.inputbtn
+{
+position: absolute;
+width: 405px;
+height: 45px;
+left: 30px;
+top: 120px;
+font-size: 22px;
+}
+#alink
+{	position: absolute;
+	top: 450px;
+	left: 140px;
+}

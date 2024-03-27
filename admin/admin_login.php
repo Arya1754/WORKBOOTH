@@ -70,9 +70,7 @@
 	</form>
 
 	</div>
-<div id="alink">
-	<h2>Add New Admin?</h2>
-	<a href="#addadmin" >Sign In</a>
+
 </div>
 </body>
 </html>

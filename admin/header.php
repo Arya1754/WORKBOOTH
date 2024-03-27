@@ -143,7 +143,6 @@ body{
             <li><a href="admin_dashbord.php"><i class="fa fa-qrcode"></i>Dashboard</a></li>
             <li><a href="profile.php"><i class="fa fa-info-circle"></i>Profile</a></li>
             <li><a href="add-employee.php"><i class="fa fa-user"></i>Add Employee</a></li>
-            <li><a href="add-admin.php"><i class="fa fa-user-plus"></i>Add Admin</a></li>
             <li><a href="view-employee.php"><i class="fa fa-eye"></i>View Employee</a></li>
             <li><a href="manage-leave.php"><i class="fa fa-sign-out"></i>Manage Leave</a></li>
             <li><a href="assign-task.php"><i class="fa fa-briefcase"></i>Assign Task</a></li>

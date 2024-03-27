@@ -9,9 +9,6 @@ font-family: 'Titillium Web', sans-serif;}
     background-image: linear-gradient(#8ACBCE 50%,#9fe2bf);
     width: 100%;
     height:700px;
-}nav
-{
-
 }
 ul {position: fixed;
     list-style-type: none;
@@ -43,15 +40,15 @@ ul {position: fixed;
     width: 800px;
     height: 100px;
     position:absolute;
-    top: 280px;
-    left: 30px;
+    top: 250px;
+    left: 150px;
  }
- .content h3{margin-top:20px; color:#3d3d3d;}
+ .content h3,h2{margin-top:50px; color:#3d3d3d;}
  .side
  {
     position: absolute;
     top: 160px;
-    left: 890px;
+    left: 70%;
  }
  .cont
  {
@@ -59,7 +56,7 @@ ul {position: fixed;
     height: 700px;
     background-image: linear-gradient(#9fe2bf 20%,#3fd2bf);
     overflow: hidden;
-    font-family: font-family: 'Kanit', sans-serif;
+    font-family: 'Kanit', sans-serif;
     
 
  }
